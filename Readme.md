@@ -1,10 +1,15 @@
-<p align="center">
-  <img src="img/SHELLby.png" alt="Thomas Shellby from Peaky Blinders">
-</p>
-
+<div align="center" >
+  
+<img src="img/SHELLby.png" alt="Thomas Shellby from Peaky Blinders">
+  
 # SHELLby
 
+![Maintenance](https://img.shields.io/badge/maintained-YES-green?style=for-the-badge&logo=appveyor)
+![Dotnet](https://img.shields.io/badge/.Net-v6.0-blueviolet?style=for-the-badge&logo=appveyor)
+
 ### Small handy tool for crafting shellcodes by hand. Built on top [keystone engine](https://github.com/keystone-engine/keystone).
+  
+</div>
 
 ![](img/screen.png)
 
