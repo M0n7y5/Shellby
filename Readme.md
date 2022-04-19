@@ -1,14 +1,12 @@
-<center>
-
-![Thomas Shellby from Peaky Blinders](img/SHELLby.png)
+<p align="center">
+  <img src="img/SHELLby.png" alt="Thomas Shellby from Peaky Blinders">
+</p>
 
 # SHELLby
 
 ### Small handy tool for crafting shellcodes by hand. Built on top [keystone engine](https://github.com/keystone-engine/keystone).
 
 ![](img/screen.png)
-
-</center>
 
 ## Features
 - Automatic compilation
